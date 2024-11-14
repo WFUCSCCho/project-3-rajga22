@@ -1,3 +1,12 @@
+
+//∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗*
+       // ∗ @file: Proj3.java
+       //
+       // ∗ @author: Ananya Rajgaria
+       // ∗ @date: November 14, 2024
+       // ∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗//
+
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
