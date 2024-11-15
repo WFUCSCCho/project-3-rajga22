@@ -1,0 +1,6 @@
+0,merge,1791,0
+0,merge,1583,0
+0,bubble,1458,0
+0,quick,1750,0
+0,heap,1875,0
+0,transposition,1792,0
